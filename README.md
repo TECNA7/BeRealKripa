@@ -9,7 +9,7 @@
 - [X] Users are NOT able to see other photos until they upload their own    
 - [X] User receive notifcation when it is time to post
 - [X] Users can make comments and view comments in posts
-- [ ] 
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
